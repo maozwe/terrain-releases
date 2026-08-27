@@ -35,6 +35,21 @@
         "count": 0
       },
       {
+        "name": "נתיבות",
+        "path": "files/נתיבות",
+        "type": "dir",
+        "children": [
+          {
+            "name": "israel.txt.txt",
+            "path": "files/נתיבות/israel.txt.txt",
+            "type": "file",
+            "size": 0,
+            "url": "https://raw.githubusercontent.com/maozwe/terrain-releases/main/files/%D7%A0%D7%AA%D7%99%D7%91%D7%95%D7%AA/israel.txt.txt"
+          }
+        ],
+        "count": 1
+      },
+      {
         "name": "תכניות",
         "path": "files/תכניות",
         "type": "dir",
@@ -49,6 +64,6 @@
         "count": 0
       }
     ],
-    "count": 5
+    "count": 6
   }
 }
