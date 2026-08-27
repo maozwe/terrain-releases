@@ -1,0 +1,28 @@
+{
+  "version": "1.0.0",
+  "build": 1,
+  "tag": "v1.0.0+1",
+  "notes_url": "https://github.com/maozwe/terrain-releases/releases/tag/v1.0.0+1",
+  "artifacts": {
+    "arm64-v8a": {
+      "url": "https://github.com/maozwe/terrain-releases/releases/download/v1.0.0+1/terrain-v1.0.0+1-arm64-v8a.apk",
+      "sha256": "0fd82ae97803eca68221e5140218df62b813e94a9382e525fb5fd76e7cf41a8c",
+      "size": 31631323
+    },
+    "armeabi-v7a": {
+      "url": "https://github.com/maozwe/terrain-releases/releases/download/v1.0.0+1/terrain-v1.0.0+1-armeabi-v7a.apk",
+      "sha256": "31d2cf3a45905caa1dfb73fc49d63e6e9812365bd69b0b2134be7dd06ccea8ac",
+      "size": 26245189
+    },
+    "x86_64": {
+      "url": "https://github.com/maozwe/terrain-releases/releases/download/v1.0.0+1/terrain-v1.0.0+1-x86_64.apk",
+      "sha256": "3640dc8dc23452630415dedc783b33f1366b1c1b067ec7c17af35d1227ca0ed3",
+      "size": 33466688
+    },
+    "universal": {
+      "url": "https://github.com/maozwe/terrain-releases/releases/download/v1.0.0+1/terrain-v1.0.0+1-universal.apk",
+      "sha256": "c4ea528e2c2de1214e5646873fa540f754d7935ba1dac34e0987303423178b60",
+      "size": 87190588
+    }
+  }
+}

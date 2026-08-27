@@ -35,12 +35,15 @@ jobs:
 
       - name: Commit if the tree actually changed
         run: |
-          if git diff --quiet -- index.json; then
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Staged before comparing: `git diff` does not see an untracked file,
+          # so a first-ever index.json would report "unchanged", skip the commit
+          # and pass green having written nothing.
+          git add index.json
+          if git diff --cached --quiet -- index.json; then
             echo "index.json unchanged"
             exit 0
           fi
-          git config user.name  "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add index.json
           git commit -m "Rebuild file index"
           git push
