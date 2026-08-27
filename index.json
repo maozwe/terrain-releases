@@ -6,6 +6,21 @@
     "type": "dir",
     "children": [
       {
+        "name": "אשקלון",
+        "path": "files/אשקלון",
+        "type": "dir",
+        "children": [
+          {
+            "name": "israel.txt.txt",
+            "path": "files/אשקלון/israel.txt.txt",
+            "type": "file",
+            "size": 0,
+            "url": "https://raw.githubusercontent.com/maozwe/terrain-releases/main/files/%D7%90%D7%A9%D7%A7%D7%9C%D7%95%D7%9F/israel.txt.txt"
+          }
+        ],
+        "count": 1
+      },
+      {
         "name": "מודלים הנדסיים",
         "path": "files/מודלים הנדסיים",
         "type": "dir",
@@ -34,6 +49,6 @@
         "count": 0
       }
     ],
-    "count": 4
+    "count": 5
   }
 }
