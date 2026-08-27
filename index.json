@@ -1,0 +1,39 @@
+{
+  "root": "files",
+  "tree": {
+    "name": "files",
+    "path": "files",
+    "type": "dir",
+    "children": [
+      {
+        "name": "מודלים הנדסיים",
+        "path": "files/מודלים הנדסיים",
+        "type": "dir",
+        "children": [],
+        "count": 0
+      },
+      {
+        "name": "מסמכים",
+        "path": "files/מסמכים",
+        "type": "dir",
+        "children": [],
+        "count": 0
+      },
+      {
+        "name": "תכניות",
+        "path": "files/תכניות",
+        "type": "dir",
+        "children": [],
+        "count": 0
+      },
+      {
+        "name": "תמונות שטח",
+        "path": "files/תמונות שטח",
+        "type": "dir",
+        "children": [],
+        "count": 0
+      }
+    ],
+    "count": 4
+  }
+}
