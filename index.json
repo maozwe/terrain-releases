@@ -11,6 +11,42 @@
         "type": "dir",
         "children": [
           {
+            "name": "אורטופוטו",
+            "path": "files/אשקלון/אורטופוטו",
+            "type": "dir",
+            "children": [
+              {
+                "name": "ashkelon_ortho_7cm.jgw",
+                "path": "files/אשקלון/אורטופוטו/ashkelon_ortho_7cm.jgw",
+                "type": "file",
+                "size": 125,
+                "url": "https://raw.githubusercontent.com/maozwe/terrain-releases/main/files/%D7%90%D7%A9%D7%A7%D7%9C%D7%95%D7%9F/%D7%90%D7%95%D7%A8%D7%98%D7%95%D7%A4%D7%95%D7%98%D7%95/ashkelon_ortho_7cm.jgw"
+              },
+              {
+                "name": "ashkelon_ortho_7cm.jpg",
+                "path": "files/אשקלון/אורטופוטו/ashkelon_ortho_7cm.jpg",
+                "type": "file",
+                "size": 23605602,
+                "url": "https://raw.githubusercontent.com/maozwe/terrain-releases/main/files/%D7%90%D7%A9%D7%A7%D7%9C%D7%95%D7%9F/%D7%90%D7%95%D7%A8%D7%98%D7%95%D7%A4%D7%95%D7%98%D7%95/ashkelon_ortho_7cm.jpg"
+              },
+              {
+                "name": "ashkelon_ortho_7cm.prj",
+                "path": "files/אשקלון/אורטופוטו/ashkelon_ortho_7cm.prj",
+                "type": "file",
+                "size": 728,
+                "url": "https://raw.githubusercontent.com/maozwe/terrain-releases/main/files/%D7%90%D7%A9%D7%A7%D7%9C%D7%95%D7%9F/%D7%90%D7%95%D7%A8%D7%98%D7%95%D7%A4%D7%95%D7%98%D7%95/ashkelon_ortho_7cm.prj"
+              },
+              {
+                "name": "ashkelon_ortho_7cm.tif",
+                "path": "files/אשקלון/אורטופוטו/ashkelon_ortho_7cm.tif",
+                "type": "file",
+                "size": 25235279,
+                "url": "https://raw.githubusercontent.com/maozwe/terrain-releases/main/files/%D7%90%D7%A9%D7%A7%D7%9C%D7%95%D7%9F/%D7%90%D7%95%D7%A8%D7%98%D7%95%D7%A4%D7%95%D7%98%D7%95/ashkelon_ortho_7cm.tif"
+              }
+            ],
+            "count": 4
+          },
+          {
             "name": "israel.txt.txt",
             "path": "files/אשקלון/israel.txt.txt",
             "type": "file",
@@ -18,7 +54,7 @@
             "url": "https://raw.githubusercontent.com/maozwe/terrain-releases/main/files/%D7%90%D7%A9%D7%A7%D7%9C%D7%95%D7%9F/israel.txt.txt"
           }
         ],
-        "count": 1
+        "count": 2
       },
       {
         "name": "מודלים הנדסיים",
