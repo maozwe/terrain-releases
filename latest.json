@@ -1,12 +1,12 @@
 {
   "version": "1.0.0",
-  "build": 5,
-  "tag": "v1.0.0+5",
-  "notes_url": "https://github.com/maozwe/terrain-releases/releases/tag/v1.0.0+5",
+  "build": 6,
+  "tag": "v1.0.0+6",
+  "notes_url": "https://github.com/maozwe/terrain-releases/releases/tag/v1.0.0+6",
   "artifacts": {
-    "arm64-v8a":   { "url": "https://github.com/maozwe/terrain-releases/releases/download/v1.0.0+5/terrain-v1.0.0+5-arm64-v8a.apk",   "sha256": "ea043eaecb8ea6fb1ed28c2bf01a5e6569e80ece66ca98830fcc27bc990c480a",   "size": 32156403 },
-    "armeabi-v7a": { "url": "https://github.com/maozwe/terrain-releases/releases/download/v1.0.0+5/terrain-v1.0.0+5-armeabi-v7a.apk", "sha256": "255f3b885f2b3815850b78e60eb20dc492f9eb1cc1cb5ca45b43cd0374692ce6", "size": 26884957 },
-    "x86_64":      { "url": "https://github.com/maozwe/terrain-releases/releases/download/v1.0.0+5/terrain-v1.0.0+5-x86_64.apk",      "sha256": "0047af202429fee04e11d6fbabcca58255bad4fd7c5537736d92f874db503949",      "size": 33991764 },
-    "universal":   { "url": "https://github.com/maozwe/terrain-releases/releases/download/v1.0.0+5/terrain-v1.0.0+5-universal.apk",   "sha256": "58c1c6bfed30a750cf96b63f85a392b0968883f65cb4bc51a2828ee3191f5d08",   "size": 88878928 }
+    "arm64-v8a":   { "url": "https://github.com/maozwe/terrain-releases/releases/download/v1.0.0+6/terrain-v1.0.0+6-arm64-v8a.apk",   "sha256": "d4120b422b0f29302c9429d0045b4f660f48ec78edffd864055337508400a87f",   "size": 32222095 },
+    "armeabi-v7a": { "url": "https://github.com/maozwe/terrain-releases/releases/download/v1.0.0+6/terrain-v1.0.0+6-armeabi-v7a.apk", "sha256": "84093f372f37020c95c7b07300ee1e28d32fbdb1f21aeb408ef308582dc7e476", "size": 26885113 },
+    "x86_64":      { "url": "https://github.com/maozwe/terrain-releases/releases/download/v1.0.0+6/terrain-v1.0.0+6-x86_64.apk",      "sha256": "63d3aea663fadf5b9c9fe13c7ce1e986b5dbeec7d27e1893b87bccacbd228e09",      "size": 34057456 },
+    "universal":   { "url": "https://github.com/maozwe/terrain-releases/releases/download/v1.0.0+6/terrain-v1.0.0+6-universal.apk",   "sha256": "403be14854f43348d02ec203a3951d48c826d78df607c286d2e2b31cf49be386",   "size": 89010160 }
   }
 }
