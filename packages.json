@@ -1,11 +1,11 @@
 {
-  "tag": "data-20260828-123934",
+  "tag": "data-20260904-202840",
   "packages": [
     {
       "name": "אשקלון",
-      "url": "https://github.com/maozwe/terrain-releases/releases/download/data-20260828-123934/site-4e79618c4718.fpkg",
-      "sha256": "e53db30607547ac1f6358f63a1ac9d919c7a24a6124bc1b45c3adc99f8fa0a14",
-      "size": 35760451
+      "url": "https://github.com/maozwe/terrain-releases/releases/download/data-20260904-202840/site-4e79618c4718.fpkg",
+      "sha256": "eb998047d10d1fb9ef793c06cf09fb0533c2bc3b7474b6405c5d5a822d9b02d7",
+      "size": 240644445
     }
   ]
 }
